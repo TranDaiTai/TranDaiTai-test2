@@ -1,0 +1,8 @@
+Employee: Name=Do Minh Long, Email=dmlong@gmail.com, StartDate=05/07/2023
+=> Commute: Type=Motorbike, Cost=$60.69
+
+Employee: Name=Tran Bao Tuan, Email=tbtuan@gmail.com, StartDate=12/06/2022
+=> Commute: Type=Train, Cost=$55.17
+
+Employee: Name=Cao Hoang Thien, Email=chthien@gmail.com, StartDate=12/06/2021
+=> Commute: Type=Bus, Cost=$58.29
